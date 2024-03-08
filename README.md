@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kp2354/kp2354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YourGitHubUsername/YourGitHubUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I'm [Your Name], a [Your Profession/Role] based in [Your Location]. I'm passionate about [Your Interests/Hobbies].
+
+## 🌱 I’m
+
 
 ## ✉️ Find me on:
 
