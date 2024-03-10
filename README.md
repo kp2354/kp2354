@@ -38,9 +38,9 @@
 ## 📊 Dashboard:
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/plasticine/100/000000/checkmark.png" alt="Completed Projects" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects" style="margin-right: 120px;">
+    <img src="https://img.icons8.com/plasticine/100/000000/checkmark.png" alt="Completed Projects" style="margin-right: 120px;">
+    <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects" style="margin-right: 120px;">
     <img src="https://img.icons8.com/plasticine/100/000000/happy.png" alt="Client Satisfaction" style="margin-right: 20px;">
     <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time">
 </p>
