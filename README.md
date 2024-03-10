@@ -38,8 +38,8 @@
 ## 📊 Dashboard:
 
 <p align="center">
-  <img src="https://img.icons8.com/office/80/000000/project.png" alt="Total Projects"/>
-  <img src="https://img.icons8.com/office/80/000000/task-completed.png" alt="Completed Projects"/>
+  <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects"/>
+  <img src="https://img.icons8.com/ios/50/000000/completed-task.png" alt="Completed Projects"/>
   <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects"/>
   <img src="https://img.icons8.com/office/80/000000/customer-satisfaction.png" alt="Client Satisfaction"/>
   <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time"/>
@@ -59,8 +59,4 @@
   <img src="https://progress-bar.dev/40/?title=Data%20Science" alt="Data Science"/>
 </p>
 
-<p align="center">
-  <b>Current Learning Progress:</b><br/>
-  <img src="https://progress-bar.dev/60/?title=Ethical%20Hacking" alt="Ethical Hacking"/>
-  <img src="https://progress-bar.dev/40/?title=Data%20Science" alt="Data Science"/>
-</p>
+
