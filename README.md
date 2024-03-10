@@ -1,31 +1,23 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on Web Devlopment as Freelancer
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
+- 🔭 I’m currently working on Web Development as a Freelancer.
+- 🌱 I’m currently learning Ethical Hacking and Data Science.
+- 📫 How to reach me: +91 9173413041 & kp2352004@gmail.com
 
 ## ✉️ Find me on:
 
-
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kp2352004@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:kp2352004@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kp2354.kp2354)
 [![Github](https://img.shields.io/github/followers/kp2354?label=Follow&style=social)](https://github.com/kp2354)
 <br />
- ## 🧰 Languages and Tools:
+
+## 🧰 Languages and Tools:
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
@@ -42,3 +34,13 @@
 <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## 📊 Dashboard:
+
+- Total Projects: 10
+- Completed Projects: 7
+- Ongoing Projects: 3
+- Client Satisfaction Rate: 90%
+- Average Project Completion Time: 15 days
+- Current Learning Progress:
+  - Ethical Hacking: 60%
+  - Data Science: 40%
