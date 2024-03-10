@@ -19,10 +19,8 @@
 ## 🧰 Languages and Tools:
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
