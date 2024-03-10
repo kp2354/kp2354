@@ -57,8 +57,8 @@
 
 <p align="center">
   <b>Current Learning Progress:</b><br/>
-  <img src="https://progress-bar.dev/60/?title=Ethical%20Hacking" alt="Ethical Hacking"/>
-  <img src="https://progress-bar.dev/40/?title=Data%20Science" alt="Data Science"/>
+  <img src="https://progress-bar.dev/40/?title=Ethical%20Hacking" alt="Ethical Hacking"/>
+  <img src="https://progress-bar.dev/30/?title=Data%20Science" alt="Data Science"/>
 </p>
 
 
