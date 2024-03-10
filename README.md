@@ -30,8 +30,9 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/qualtrics/qualtrics-icon.svg" alt="Qualtrics" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 
 
 ## 📊 Dashboard:
