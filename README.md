@@ -37,7 +37,7 @@
 
 ## 📊 Dashboard:
 
-<p align="center">
+<p align="center" display="flex" flex-direction:"colum">
     <div style="margin-right: 20px;">
         <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects">
     </div>
