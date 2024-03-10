@@ -39,14 +39,10 @@
 
 <p align="center">
     <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects">
-    <p>  </p>
     <img src="https://img.icons8.com/plasticine/100/000000/checkmark.png" alt="Completed Projects">
-      <p>  </p>
-    <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects">
-      <p>  </p>
-    <img src="https://img.icons8.com/plasticine/100/000000/happy.png" alt="Client Satisfaction">
-       <p>  </p>
-    <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time">
+     <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects">
+     <img src="https://img.icons8.com/plasticine/100/000000/happy.png" alt="Client Satisfaction">
+     <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time">
 </p>
 
 
