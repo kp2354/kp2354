@@ -19,8 +19,8 @@
 ## 🧰 Languages and Tools:
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/html/html-icon.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/css/css-icon.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Flogo-html-html5-icon-html-html5-2582748%2F&psig=AOvVaw3i-q4Vak5bngA2HQQ9Gfdg&ust=1710154995754000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCfmvrF6YQDFQAAAAAdAAAAABAE" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcss%2Blogo&psig=AOvVaw1AuIQn4Ee8KXEo3nFDxvtC&ust=1710155019363000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjBuYXG6YQDFQAAAAAdAAAAABAE" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
