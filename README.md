@@ -7,8 +7,8 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://kpportfoliodata.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/krish-patel-0b64ba272/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:kp2352004@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -52,7 +52,7 @@
   <b>Completed Projects:</b> 7 &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Ongoing Projects:</b> 3 &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Client Satisfaction Rate:</b> 90% &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Average Project Completion Time:</b> 15 days
+  
 </p>
 
 <p align="center">
