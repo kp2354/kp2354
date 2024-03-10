@@ -37,13 +37,14 @@
 
 ## 📊 Dashboard:
 
-<p align="center" style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<p align="center">
     <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects">
     <img src="https://img.icons8.com/plasticine/100/000000/checkmark.png" alt="Completed Projects">
     <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects">
     <img src="https://img.icons8.com/plasticine/100/000000/happy.png" alt="Client Satisfaction">
     <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time">
 </p>
+
 
 
 
