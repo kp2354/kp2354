@@ -36,11 +36,25 @@
 
 ## 📊 Dashboard:
 
-- Total Projects: 10
-- Completed Projects: 7
-- Ongoing Projects: 3
-- Client Satisfaction Rate: 90%
-- Average Project Completion Time: 15 days
-- Current Learning Progress:
-  - Ethical Hacking: 60%
-  - Data Science: 40%
+<p align="center">
+  <img src="https://img.icons8.com/office/80/000000/project.png" alt="Total Projects"/>
+  <img src="https://img.icons8.com/office/80/000000/task-completed.png" alt="Completed Projects"/>
+  <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects"/>
+  <img src="https://img.icons8.com/office/80/000000/happy.png" alt="Client Satisfaction"/>
+  <img src="https://img.icons8.com/office/80/000000/time.png" alt="Average Project Completion Time"/>
+</p>
+
+<p align="center">
+  <b>Total Projects:</b> 10 &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Completed Projects:</b> 7 &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Ongoing Projects:</b> 3 &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Client Satisfaction Rate:</b> 90% &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Average Project Completion Time:</b> 15 days
+</p>
+
+<p align="center">
+  <b>Current Learning Progress:</b><br/>
+  <img src="https://progress-bar.dev/60/?title=Ethical Hacking" alt="Ethical Hacking"/>
+  <img src="https://progress-bar.dev/40/?title=Data Science" alt="Data Science"/>
+</p>
+
