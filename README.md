@@ -22,14 +22,14 @@
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
     <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://www.vectorlogo.zone/logos/flask/flask-icon.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 </p>
 
