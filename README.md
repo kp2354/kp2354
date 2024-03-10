@@ -38,14 +38,13 @@
 ## 📊 Dashboard:
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects"/>
- <img src="https://img.icons8.com/plasticine/100/000000/checkmark.png" alt="Completed Projects"/>
-
-  <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects"/>
-  <img src="https://img.icons8.com/plasticine/100/000000/happy.png" alt="Client Satisfaction"/>
-
-  <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time"/>
+    <img src="https://img.icons8.com/ios/50/000000/project-management.png" alt="Total Projects" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/plasticine/100/000000/checkmark.png" alt="Completed Projects" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/office/80/000000/running.png" alt="Ongoing Projects" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/plasticine/100/000000/happy.png" alt="Client Satisfaction" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/office/80/000000/clock.png" alt="Average Project Completion Time">
 </p>
+
 
 <p align="center">
   <b>Total Projects:</b> 10 &nbsp;&nbsp;&nbsp;&nbsp;
