@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web Development as a Freelancer.
 - 🌱 I’m currently learning Ethical Hacking and Data Science.
-- 📫 How to reach me:- +91 9173413041 & kp2352004@gmail.com
+- 📫 How to reach me:- +919173413041 & kp2352004@gmail.com
 
 ## ✉️ Find me on:
 
