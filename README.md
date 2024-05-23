@@ -1,37 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Krish Patel</h1>
 
-- 🔭 I’m currently working on Web Development as a Freelancer.
-- 🌱 I’m currently learning Ethical Hacking and Data Science.
-- 📫 How to reach me:- +919173413041 & kp2352004@gmail.com
+<p align="center">
+  🔭 I’m currently working on Web Development as a Freelancer.<br>
+  🌱 I’m currently learning Ethical Hacking and Data Science.<br>
+  📫 How to reach me: <a href="mailto:kp2352004@gmail.com">kp2352004@gmail.com</a>
+</p>
 
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://kpportfoliodata.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/krish-patel-0b64ba272/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:kp2352004@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://kpportfoliodata.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Portfolio" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.linkedin.com/in/krish-patel-0b64ba272/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="mailto:kp2352004@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
+  </a>
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kp2354.kp2354)
 [![Github](https://img.shields.io/github/followers/kp2354?label=Follow&style=social)](https://github.com/kp2354)
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 🧰 Languages and Tools:
 
@@ -50,32 +41,27 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
-
 ## 📊 Dashboard:
-
-
-
-
-
-
-
-
-
-
 
 <p align="center">
   <b>Total Projects:</b> 10 &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Completed Projects:</b> 7 &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Ongoing Projects:</b> 3 &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Client Satisfaction Rate:</b> 90% &nbsp;&nbsp;&nbsp;&nbsp;
-  
 </p>
 
 <p align="center">
   <b>Current Learning Progress:</b><br/>
-  <img src="https://progress-bar.dev/40/?title=Ethical%20Hacking" alt="Ethical Hacking"/>
-  <img src="https://progress-bar.dev/30/?title=Data%20Science" alt="Data Science"/>
+  <img src="https://progress-bar.dev/40/?title=Ethical%20Hacking&color=babaca" alt="Ethical Hacking"/>
+  <img src="https://progress-bar.dev/30/?title=Data%20Science&color=baacaa" alt="Data Science"/>
 </p>
 
-
+<style>
+body {
+  background-color: #000;
+  color: #fff;
+}
+img {
+  filter: invert(1);
+}
+</style>
