@@ -101,11 +101,6 @@
   <img src="https://progress-bar.dev/30/?title=Data%20Science&color=baacaa" alt="Data Science"/>
 </p>
 
-## Top Open Source Projects:
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=kp2354&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kp2354/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=kp2354&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kp2354/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kp2354&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kp2354/web-projects)
-[![Krish Patel Readme](https://github-readme-stats.vercel.app/api/pin/?username=kp2354&repo=kp2354&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kp2354/kp2354)
 
 <p align="left">
   <a href="https://github.com/kp2354?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
