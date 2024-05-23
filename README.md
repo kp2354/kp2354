@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="krish-patel"/>
  </a>
 
- <a href="https://instagram.com/" target="_blank">
+ <a href="https://www.instagram.com/k_p_2354" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="krish-patel" />
  </a> 
 
