@@ -52,7 +52,7 @@
  # About me
  
 <p>
-   <img align="right" width="350" src="https://raw.githubusercontent.com/kp2354/kp2354/programmer.gif" alt="Coding gif" />
+   <img align="right" width="350" src="https://raw.githubusercontent.com/kp2354/kp2354/main/programmer.gif" alt="Coding gif" />
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
