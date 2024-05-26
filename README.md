@@ -20,8 +20,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Krish+Patel">「 Google Me 」</a>
-    <br>
+    
+    
     「 I am a web developer from <b>India</b> 」
     <br>
     <br>
