@@ -23,8 +23,7 @@
     
     
     「 I am a web developer from <b>India</b> 」
-    <br>
-    <br>
+   
   </samp>
 </p>
 
