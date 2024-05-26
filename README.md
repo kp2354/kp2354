@@ -11,7 +11,7 @@
 </a>
 
 
-<!-- Intro  -->
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://kpportfoliodata.netlify.app">Krish Patel</a></b>
