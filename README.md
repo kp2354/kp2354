@@ -18,14 +18,7 @@
         </samp>
 </h3>
 
-<p align="center"> 
-  <samp>
-    
-    
-    「 I am a web developer from <b>India</b> 」
-   
-  </samp>
-</p>
+
 
 <p align="center">
  <a href="https://kpportfoliodata.netlify.app" target="blank">
