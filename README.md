@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Krish Patel</h1>
+<h1 align="center">Hi there 👋, I'm Krish R Patel</h1>
 
 <p align="center">
   🔭 I’m currently working on Web Development as a Freelancer.<br>
